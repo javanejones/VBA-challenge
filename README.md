@@ -1,5 +1,3 @@
-# VBA-challenge
-VBAStocks
 # VBA Homework - The VBA of Wall Street
 
 ## Background
